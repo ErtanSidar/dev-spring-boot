@@ -36,7 +36,7 @@ public class StudentDaoImpl implements StudentDao {
     @Override
     public List<Student> findAll() {
         // create query
-         TypedQuery<Student> query = entityManager.createQuery("FROM Student", Student.class);
+        TypedQuery<Student> query = entityManager.createQuery("FROM Student", Student.class);
         // TypedQuery<Student> query = entityManager.createQuery("FROM Student order by lastName asc", Student.class);
         // TypedQuery<Student> query = entityManager.createQuery("FROM Student order by lastName desc", Student.class);
 
@@ -60,5 +60,22 @@ public class StudentDaoImpl implements StudentDao {
     @Transactional
     public void update(Student student) {
         entityManager.merge(student);
+    }
+
+    @Override
+    @Transactional
+    public void delete(Integer id) {
+        // retrieve the student
+        Student student = entityManager.find(Student.class, id);
+
+        // delete the student
+        entityManager.remove(student);
+    }
+
+    @Override
+    @Transactional
+    public int deleteAll() {
+        int numRowsDeleted = entityManager.createQuery("DELETE from Student").executeUpdate();
+        return numRowsDeleted;
     }
 }
