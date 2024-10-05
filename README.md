@@ -18,3 +18,9 @@
    8. Bean Lifecycle Methods Demo
    9. Java Config Bean Demo
 3. Spring Boot Hibernate Jpa CRUD
+   1. SQL Scripts
+   2. Crud With EntityManager
+      1. Create Objects
+      2. Read Objects
+      3. Update Objects
+      4. Delete Objects
