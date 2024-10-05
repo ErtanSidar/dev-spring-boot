@@ -55,4 +55,10 @@ public class StudentDaoImpl implements StudentDao {
         // return query results
         return query.getResultList();
     }
+
+    @Override
+    @Transactional
+    public void update(Student student) {
+        entityManager.merge(student);
+    }
 }
