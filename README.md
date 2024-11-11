@@ -38,3 +38,4 @@
    1. Spring Boot Rest Security Starter
    2. Spring Boot Rest Security Default
    3. Spring Boot Rest Security Basic
+   4. Spring Boot Rest Security Restrict Access
