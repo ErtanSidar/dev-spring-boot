@@ -28,3 +28,4 @@
    1. Spring Boot Rest Crud Hello World
    2. Spring Boot Rest Crud List Base
    3. Spring Boot Rest Crud Path Variable
+   4. Spring Boot Rest Crud Exception Handling
