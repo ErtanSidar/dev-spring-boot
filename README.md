@@ -36,3 +36,4 @@
    9. Spring Boot Rest Crud Employee With Jpa
 5. Spring Boot Rest Security
    1. Spring Boot Rest Security Starter
+   2. Spring Boot Rest Security Default
