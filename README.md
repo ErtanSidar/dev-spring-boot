@@ -25,4 +25,4 @@
       3. Update Objects
       4. Delete Objects
 4. Spring Boot Rest Crud
-   1. Spring Boot Rest Crud
+   1. Spring Boot Rest Crud Hello World
