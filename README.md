@@ -42,3 +42,21 @@
 6. Spring Boot Spring Mvc
    1. Spring Boot Thymeleaf Hello World Demo
    2. Spring Boot Thymeleaf Hello World Demo With CSS
+   3. Spring Boot Reading HTML From Data
+   4. Spring Boot Adding Data To The Model
+   5. Spring Boot Binding Request Params
+   6. Spring Boot Get Mapping And Post Mapping
+   7. Spring Boot Form Data Binding Text Fields
+   8. Spring Boot Form Data Binding Dropdown Basic
+   9. Spring Boot Form Data Binding Dropdown Read From Prop.
+   10. Spring Boot Form Data Binding Radio Button Basic
+   11. Spring Boot Form Data Binding Radio Button Read From Prop.
+   12. Spring Boot Form Data Binding Checkbox Basic
+   13. Spring Boot Form Data Binding Read From Prop.
+   14. Spring Boot Validation Required Fields
+   15. Spring Boot Validation InitBinder
+   16. Spring Boot Validation Number Ranges
+   17. Spring Boot Validation Regular Expressions
+   18. Spring Boot Validation Make IntegerFields Required
+   19. Spring Boot Validation String For Integer Fields
+   20. Spring Boot Validation Custom Validation Rules
