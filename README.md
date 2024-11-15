@@ -41,3 +41,4 @@
    4. Spring Boot Rest Security Restrict Access
 6. Spring Boot Spring Mvc
    1. Spring Boot Thymeleaf Hello World Demo
+   2. Spring Boot Thymeleaf Hello World Demo With CSS
