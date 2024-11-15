@@ -60,3 +60,11 @@
    18. Spring Boot Validation Make IntegerFields Required
    19. Spring Boot Validation String For Integer Fields
    20. Spring Boot Validation Custom Validation Rules
+7. Spring Boot MVC Crud
+   1. Spring Boot Spring MVC Crud Employees List
+   2. Spring Boot Spring MVC Crud Employees Add
+   3. Spring Boot Spring MVC Crud Employees Update
+      1. Spring Boot Spring MVC Crud Employee Update Alternative
+   4. Spring Boot Spring MVC Crud Employee Delete
+      1. Spring Boot Spring MVC Crud Employee Delete Alternative
+
