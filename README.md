@@ -39,3 +39,5 @@
    2. Spring Boot Rest Security Default
    3. Spring Boot Rest Security Basic
    4. Spring Boot Rest Security Restrict Access
+6. Spring Boot Spring Mvc
+   1. Spring Boot Thymeleaf Hello World Demo
