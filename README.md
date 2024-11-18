@@ -57,7 +57,7 @@
    15. Spring Boot Validation InitBinder
    16. Spring Boot Validation Number Ranges
    17. Spring Boot Validation Regular Expressions
-   18. Spring Boot Validation Make IntegerFields Required
+   18. Spring Boot Validation Make Integer Fields Required
    19. Spring Boot Validation String For Integer Fields
    20. Spring Boot Validation Custom Validation Rules
 7. Spring Boot MVC Crud
@@ -67,4 +67,7 @@
       1. Spring Boot Spring MVC Crud Employee Update Alternative
    4. Spring Boot Spring MVC Crud Employee Delete
       1. Spring Boot Spring MVC Crud Employee Delete Alternative
-
+8. Spring BootJpa Advanced Mappings
+   1. From 1 to 6 @OneToOne
+   2. From 7 to 17 @OneToMany, @ManyToOne
+   3. From 18 to 23 @ManyToMany
